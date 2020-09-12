@@ -1,0 +1,13 @@
+
+.container{
+     text-align: center;
+}
+
+button{
+    background: #4169E1;
+    color:white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+}
